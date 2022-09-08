@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662608603 source:c:\users\kevin\documents\tp_integrador_k1043\main.cpp
+	<iostream>
+	<fstream>
+
